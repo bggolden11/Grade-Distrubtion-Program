@@ -1,0 +1,8 @@
+fall-2018.csv
+letterA
+CS
+75.0
+letterA
+IT
+20.0
+#
