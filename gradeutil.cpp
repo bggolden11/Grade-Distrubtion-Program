@@ -1,11 +1,4 @@
-/*gradeutil.cpp*/
-
-//
-// <<YOUR NAME HERE>>
-// U. of Illinois, Chicago
-// CS 341, Spring 2019
-// Project #02: GradeUtil API
-//
+//Grade Distrubtion Program
 
 
 #include <string>
