@@ -11,7 +11,6 @@
 using namespace std;
 College sortDepartment(College A)
 {
-  cout << i;
     sort(A.Depts.begin(), A.Depts.end(),
          [](Dept a, Dept b) {
              if (a.Name > b.Name)
@@ -29,7 +28,6 @@ College sortDepartment(College A)
 //Function to sort first by DFW then by deptartment then number then by section
 vector<Course> sortThisDFW(vector<Course> bye)
 {
-  cout << i;
     sort(bye.begin(), bye.end(),
          [](Course s1, Course s2) {
              int DFW1, N;
@@ -81,7 +79,6 @@ vector<Course> sortThisDFW(vector<Course> bye)
 //Function to sort first by percent then by deptartment then number then by section
 vector<Course> sortThisPercent(vector<Course> bye)
 {
-
     sort(bye.begin(), bye.end(),
          [=](Course s1, Course s2) {
              GradeStats A;
